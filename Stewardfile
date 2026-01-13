@@ -1,0 +1,7 @@
+# Copyright (c) 2025 Mihai Stancu (https://github.com/curatorium)
+
+# eJSON @see https://github.com/shopify/ejson
+:deb https://github.com/shopify/ejson/releases/download/v1.5.2/ejson_1.5.2_linux_$ARCH.deb
+
+# YQ @see https://mikefarah.gitbook.io/yq/
+:bin yq https://github.com/mikefarah/yq/releases/download/v4.35.2/yq_linux_$ARCH;
